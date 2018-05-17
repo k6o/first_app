@@ -1,4 +1,4 @@
-# Ruby on Rails Tutorial: first application 2
+# Ruby on Rails Tutorial: first application 3
 
 This is the first application for the
 [*Ruby on Rails Tutorial*](http://railstutorial.org/)
